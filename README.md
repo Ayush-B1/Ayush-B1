@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayush-B1
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Machine learning
+- 👀 I’m interested in web development especially backend side
+- 🌱 I’m currently learning fullstack
 - 📫 you can contact me via instagram @ayush___b__
 
 <!---
